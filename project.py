@@ -15,3 +15,7 @@ valor_de_venda = 150
 lucro = valor_de_venda - valor_do_produto
 
 print (lucro)
+
+# Mostrando para o Biel
+
+print ("o Gabriel quer namorar com a Bia mas o pai dela não deixa")
